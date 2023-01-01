@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me esjeong153@naver.com
 
 <!---
 Eunseo-Jeong/Eunseo-Jeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
