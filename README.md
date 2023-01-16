@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me esjeong153@naver.com
-
+&nbsp; 
 - 📝 Gachon University (2017.03 - 2022.02)
 - 🪴 Volunteer Activity in Malaysia & Indonesia (2019)
 - 📚 INC Lab. (2020.06 - 2021.06)
