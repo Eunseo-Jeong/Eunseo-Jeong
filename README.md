@@ -14,8 +14,6 @@
 - 🔥 Intern in 공간정보기술 (2020.07 - 2020.08)
 - 📚 Research Assistant in ISNLP Lab. (2021.02 - )
 - 📍 Master in ISNLP Lab. (2022.03 - ) GPA 4.25/4.5
-- 📄 Multimodal Prompt Learning in Emotion Recognition Using Context and Audio Information (Mathematics)
-- 📄 
 
 <!---
 Eunseo-Jeong/Eunseo-Jeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
