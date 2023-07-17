@@ -13,7 +13,7 @@
 - 📚 Research Assistant in INC Lab. (2020.06 - 2021.06)
 - 🔥 Intern in 공간정보기술 (2020.07 - 2020.08)
 - 📚 Research Assistant in ISNLP Lab. (2021.02 - )
-- 📍 Master in ISNLP Lab. (2022.03 - ) 
+- 📍 Master in ISNLP Lab. (2022.03 - ) GPA 4.25/4.5
 
 
 <!---
